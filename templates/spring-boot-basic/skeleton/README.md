@@ -8,4 +8,4 @@
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=${{ values.orgName }}_${{ values.appName }}&metric=ncloc)](https://sonarcloud.io/dashboard?id=${{ values.orgName }}_${{ values.appName }})
 
 In this project I'm demonstrating you the most interesting features of [Backstage](https://backstage.io/) for generating app skeletons. \
-This skeleton was generated automatically from the following [template](https://github.com/piomin/backstage-templates/blob/master/templates/spring-boot-basic/template.yaml).
+This skeleton was generated automatically from the following [template](https://github.com/granatengeorg-de/backstage-templates/blob/master/templates/spring-boot-basic/template.yaml).
